@@ -1,0 +1,36 @@
+.nav-bar {
+  width: 20%;
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.link-styling {
+  text-decoration: none;
+  color: black;
+}
+
+.logo {
+  margin-right: 7px;
+}
+
+.nav-con {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.socialNetworkImages {
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
+
+.contactContainer {
+  padding: 10px;
+}

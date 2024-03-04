@@ -1,0 +1,24 @@
+.button-react {
+  background-color: transparent;
+  border-width: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 3px;
+}
+
+.align-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.buttons {
+  display: flex;
+}
+
+.page-profile {
+  display: flex;
+  align-items: center;
+}

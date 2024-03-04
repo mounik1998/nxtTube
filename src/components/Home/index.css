@@ -1,0 +1,19 @@
+.loader-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 100%;
+}
+
+.videos-align {
+  display: flex;
+  justify-content: center;
+}
+
+.premiumButton {
+  margin: 5px;
+  border-width: 0px;
+  height: 30px;
+  border-radius: 7px;
+}
